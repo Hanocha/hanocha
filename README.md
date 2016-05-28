@@ -1,9 +1,10 @@
-# hanoca
+# hanocha
 
 This is an awesome project.
 
 ## Description
 
+In progress...
 
 ## Others
 
