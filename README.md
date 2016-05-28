@@ -4,7 +4,8 @@ This is an awesome project.
 
 ## Description
 
-In progress...
+Issueを適当に投げてもらえるとhanochaはよりawesomeになっていくでしょう。
+Feel free to add issues to this repo.
 
 ## Others
 
